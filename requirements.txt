@@ -1,0 +1,13 @@
+whisper-timestamped>=1.14.2
+torch>=2.0.0
+numpy>=1.24.0
+pytube>=15.0.0
+opencv-python
+torchvision
+face_recognition
+requests
+beautifulsoup4
+tweepy
+tqdm
+scikit-learn
+moviepy=1.0.3
